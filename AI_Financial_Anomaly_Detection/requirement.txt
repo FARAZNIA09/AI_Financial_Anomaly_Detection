@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pyodbc
+faker
+shap
+streamlit
+plotly
+
+pip install -r requirements.txt
